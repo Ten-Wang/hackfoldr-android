@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/classes-b78ee1e9f34edb36ac786c9f59119d2f542d4a44.jar" />
+    </item>
+    <item
+        jar="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/classes-bd9c507ccfc21a3ec8610008ce1cb89772f24985.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-92034e370601d30b55cd98f5af69a6e03941a756.jar" />
+    </item>
+    <item
+        jar="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/classes-9f1ae33c2cc62d9657e20ef8a562338e20c9bd76.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-feedac7e64b9529289caba241193a90c4fd79a6a.jar" />
+    </item>
+    <item
+        jar="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/classes-21b46c1a25ea46b87df235e0d982d570718a7205.jar" />
+    </item>
+    <item
+        jar="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/classes-cfc4dc034ee066b7b7b66e0ee874b7b2a1d86a37.jar" />
+    </item>
+    <item
+        jar="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/classes-73c125f3c6780f062747b55d4f639f7751f55004.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-322b23a0ca8e3c1eb20c0e828a325fde7ff68f8d.jar" />
+    </item>
+    <item
+        jar="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.33.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="86a10a3af45f2c46b8dcfcb41220821d10794699">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/classes-9f254a706cef68661ac3cdce2c37d32bf278ba75.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-7aad2f4df60dc69e0c016e9feac2f46f7f9dfef7.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-3a9fa2db5e957d42c7f74ab76a281f86f6e39c72.jar" />
+    </item>
+    <item
+        jar="/Users/corn/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-5b5502f22ad49dc577af48b9a6a82e90028e4bcb.jar" />
+    </item>
+    <item
+        jar="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/classes-17f48261a8de12e3840e950f5c500f08d65046b1.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-e3e1dfcdf1091ad62101747e52cf18170b899a78.jar" />
+    </item>
+    <item
+        jar="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-c2cfa7a263dccb833f9c92300e45ecf0b0f4c44f.jar" />
+    </item>
+    <item
+        jar="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/classes-e9c84cf3f93a66b03020c9df70654f23759fee9f.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-aaf8b06116f763191563d14a5344e6c3db390848.jar" />
+    </item>
+    <item
+        jar="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/classes-180f542ec92b9150c5cd488af152bfed20c2f898.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-b64d0aaebd612e64d8c19002cd6f1c00e9fa086c.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-92895a64c168ed99263359e72deec7b5117a1ed2.jar" />
+    </item>
+    <item
+        jar="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.33.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="849357db0dcadfb604ea1ec3a185b276d98e997c">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-2d2f78c7bdbe1476d49616e227fa81c7cbf82e4c.jar" />
+    </item>
+    <item
+        jar="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/corn/Desktop/openData/hackfolder/android/app/build/intermediates/pre-dexed/debug/classes-8d97ac69add55a6ec858a22e9aefca232cbb6ce0.jar" />
+    </item>
+
+</items>
