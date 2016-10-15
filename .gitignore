@@ -39,9 +39,8 @@ buck-out
 # Android
 .idea
 .gradle
-local.properties
+android/local.properties
 *.iml
-/android/
 
 # Node
 node_modules
