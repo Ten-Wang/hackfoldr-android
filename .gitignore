@@ -22,7 +22,7 @@ DerivedData
 project.xcworkspace
 
 # Gradle
-**/build/
+build/
 /Examples/**/android/app/build/
 /Examples/**/android/app/gradle/
 /Examples/**/android/app/gradlew
@@ -37,10 +37,10 @@ buck-out
 /ReactAndroid/src/main/gen
 
 # Android
-**/.idea
-**/.gradle
-**/local.properties
-**/*.iml
+.idea
+.gradle
+local.properties
+*.iml
 /android/
 
 # Node
